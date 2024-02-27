@@ -31,7 +31,7 @@ $Calendar = $Namespace.GetDefaultFolder(9) # 9 corresponds to olFolderCalendar
 
 # Loop through each item in the Calendar
 foreach ($Item in $Calendar.Items) {
-    
+    $title = $Item.Subject
     Write-Host $title vs $SubjectToDelete -ForegroundColor Blue
     $isSubjectToDelete = $Item.Subject -eq $SubjectToDelete
     Write-Host "Test >   $isSubjectToDelete" -ForegroundColor Yellow
