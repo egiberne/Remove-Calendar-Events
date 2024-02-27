@@ -2,16 +2,16 @@
 <a name="readme-top"></a>
 
 <!-- NAME -->
-# NAME
-**Template-Project-Implementation** 
+# Remove Calendar Item
+**Remove-CalendarItem.ps1** 
 
 <!-- ABSTRACT -->
 ## ABSTRACT 
-Short description
+This script deletes calendar items in Microsoft Outlook based on the subject.
 
 <!-- ABOUT THE PROJECT -->
 ## DESCRIPTION
-Long description
+The script uses the Outlook COM object to interact with the user's Outlook application. It loops through each item in the user's calendar and deletes the ones whose subject matches the specified string.
 
 * What is it ?
     - Interactive script : 
