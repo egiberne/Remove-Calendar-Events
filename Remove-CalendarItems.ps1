@@ -42,7 +42,14 @@ foreach ($Item in $Calendar.Items) {
         $Item.Delete()
         Write-Host "$Item.Subject deleted" -ForegroundColor Green
     }
+    # Release the COM object for the item
+    [System.Runtime.Interopservices.Marshal]::ReleaseComObject($Item) | Out-Null
 }
 
 # Clean up the COM object
 [System.Runtime.Interopservices.Marshal]::ReleaseComObject($Outlook) | Out-Null
+Remove-Variable -Name Outlook -Force
+
+# Force garbage collection
+[System.GC]::Collect()
+[System.GC]::WaitForPendingFinalizers()
