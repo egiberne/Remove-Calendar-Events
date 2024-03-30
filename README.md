@@ -48,7 +48,7 @@ Regarding Microsoft Outlook go to the pages :
   https://portal.office.com/account
 
 ### Usage 
-1. Download Remove-CalendarEvents.ps1 and save on your computer.
+1. Download [Remove-CalendarEvents.ps1](https://github.com/egiberne/Remove-Calendar-Events/blob/cf8c017a793598ea152301104d6f043c5ecc39c1/Remove-CalendarEvents.ps1) and save on your computer.
 2. Start PowerShell and go to the folder where you saved the file.
 3. Set the PowerShell execution policies for Windows computers to Unrestricted
    ```powershell
