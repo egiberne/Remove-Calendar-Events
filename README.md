@@ -11,6 +11,7 @@ This script deletes calendar items in Microsoft Outlook based on the subject.
 
 <!-- ABOUT THE PROJECT -->
 ## DESCRIPTION
+You may need to use this script if you have Outlook performance issues. This kind of problem occurs on macOS when the calendar has more than 5000 items/events.
 The script uses the Outlook COM object to interact with the user's Outlook application. It loops through each item in the user's calendar and deletes the ones whose subject matches the specified string.
 
 * What is it ?
@@ -18,14 +19,13 @@ The script uses the Outlook COM object to interact with the user's Outlook appli
     - Cmdlet script :
     
 * Who is it for ?
-    - IT Support
-    - Power User
+    - Regular User
     
  * Why to use it ? 
-    - Make your IT life easier
+    - Fix Outlook perf
     
  * When to use it ?
-    - When you want save time
+    - When you know the events you have to delete and do not have access to Exchange server or a Windows device.
     
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
