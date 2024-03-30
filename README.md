@@ -80,7 +80,7 @@ Regarding Microsoft Outlook go to the pages :
 <!-- LICENSE -->
 ## LICENSE
 
-Distributed under the  Unlicense license. See `LICENSE` for more information.
+Distributed under the  Unlicense license. See the file, `LICENCE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +93,7 @@ If you have any feedback, please post on the [Issues section](https://github.com
 
 <!-- CONTRIBUTOR -->
 ## CONTRIBUTION
-Feel free to contribute to its improve.
+Feel free to contribute to its improve. See file, 'CODE_OF_CONDUCT' for more information.
 
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
