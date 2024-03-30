@@ -2,8 +2,8 @@
 <a name="readme-top"></a>
 
 <!-- NAME -->
-# Remove Calendar Item
-**Remove-CalendarItem.ps1** 
+# Remove Calendar Events
+**Remove-CalendarEvents.ps1** 
 
 <!-- ABSTRACT -->
 ## ABSTRACT 
