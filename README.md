@@ -88,7 +88,7 @@ Distributed under the  Unlicense license. See `LICENSE` for more information.
 <!-- FEEDBACK -->
 ## FEEDBACK
 
-If you have any feedback, please post on the Issues list.
+If you have any feedback, please post on the [Issues section](https://github.com/egiberne/Remove-Calendar-Events/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
