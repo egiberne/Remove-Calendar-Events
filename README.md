@@ -55,9 +55,9 @@ Regarding Microsoft Outlook go to the pages :
      Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
    ```
 5. If you want to cancel the meeting calendar named,   ``` My Meeting   ``` , run the following command
-  ```powershell
+    ```powershell
     .\Remove-CalendarEvents.ps1 -SubjectToDelete "My Meeting"
-  ```
+    ```
 
 
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
