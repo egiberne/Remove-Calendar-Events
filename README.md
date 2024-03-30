@@ -33,13 +33,19 @@ The script uses the Outlook COM object to interact with the user's Outlook appli
 
 ### Installation
 
-Go to the page for :
+Regarding Microsoft PowerShell, go to the pages for :
 - Windows 
 [https://learn.microsoft.com/en-gb/powershell/scripting/install/installing-powershell-on-windows](https://learn.microsoft.com/en-gb/powershell/scripting/install/installing-powershell-on-windows)
 - MacOS
 [https://learn.microsoft.com/en-gb/powershell/scripting/install/installing-powershell-on-windows](https://learn.microsoft.com/en-gb/powershell/scripting/install/installing-powershell-on-macos)
 - Linux 
 [https://learn.microsoft.com/en-gb/powershell/scripting/install/installing-powershell-on-linux](https://learn.microsoft.com/en-gb/powershell/scripting/install/installing-powershell-on-linux)
+
+Regarding Microsoft Outlook go to the pages :
+- Individual subscirption
+  https://account.microsoft.com/services/microsoft365
+- Enterprise subscription
+  https://portal.office.com/account
 
 ### Usage 
 1. Download Remove-CalendarEvents.ps1 and save on your computer.
