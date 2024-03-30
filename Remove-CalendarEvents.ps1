@@ -9,7 +9,7 @@ The script uses the Outlook COM object to interact with the user's Outlook appli
 The subject of the calendar items to delete.
 
 .EXAMPLE
-.\Remove-CalendarItem.ps1 -SubjectToDelete "Your Subject Here"
+.\Remove-CalendarEvents.ps1 -SubjectToDelete "Your Subject Here"
 
 .NOTES
 This script is intended to be run on the machine where Outlook is installed and the user is logged in.
